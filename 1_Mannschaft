@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fussball.de Widget</title>
+    <style>
+        /* Entfernt weiße Ränder, damit das Widget nahtlos passt */
+        body { margin: 0; padding: 0; }
+    </style>
+</head>
+<body>
+
+    <script type="text/javascript" src="https://www.fussball.de/widgets.js"></script>
+    <div class="fussballde_widget" 
+         data-id="27d084ea-b006-49bb-8b05-32d92e44a8e8" 
+         data-type="table" 
+         style="width: 100%;">
+    </div>
+    </body>
+</html>
